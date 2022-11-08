@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "symbol": "",
+    "uri": "https://raw.githubusercontent.com/peerezdev/test/main/token.json",
+    "seller_fee_basis_points": 800,
+    "creators": [
+        {
+            "address": "DwdSumH7kwTmEbo3m7xcbAEZpcngmH9Yt4Gs7cRD7Grq",
+            "verified": false,
+            "share": 100
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "TEST #74",
+    "symbol": "TEST",
+    "description": "999 High-quality TEST making Web 3 the best place",
+    "image": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/{x}.png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "green"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/{x}.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
