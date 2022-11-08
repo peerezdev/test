@@ -1,8 +1,8 @@
 {
     "name": "",
     "symbol": "",
-    "uri": "https://raw.githubusercontent.com/peerezdev/test/main/token.json",
-    "seller_fee_basis_points": 800,
+    "uri": "https://raw.githubusercontent.com/peerezdev/test/main/metadata/{x}.json",
+    "seller_fee_basis_points": 999,
     "creators": [
         {
             "address": "DwdSumH7kwTmEbo3m7xcbAEZpcngmH9Yt4Gs7cRD7Grq",

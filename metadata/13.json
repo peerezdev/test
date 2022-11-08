@@ -2,18 +2,22 @@
     "name": "TEST #13",
     "symbol": "TEST",
     "description": "999 High-quality TEST making Web 3 the best place",
-    "image": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/{x}.png",
+    "image": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/424.png",
     "external_url": "",
+    "collection": {
+        "name": "TESTING",
+        "family": "LaunchMyNFT"
+    },
     "attributes": [
         {
             "trait_type": "character",
-            "value": "green"
+            "value": "JK7"
         }
     ],
     "properties": {
         "files": [
             {
-                "uri": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/{x}.png",
+                "uri": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/424.png",
                 "type": "image/png"
             }
         ],
