@@ -1,0 +1,16 @@
+{
+    "name": "Testing",
+    "symbol": "TEST",
+    "description": "999 High-quality TEST making Web 3 the best place",
+    "seller_fee_basis_points": 0,
+    "image": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/v1ps_pfp_1665239209654.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/v1ps_pfp_1665239209654.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
